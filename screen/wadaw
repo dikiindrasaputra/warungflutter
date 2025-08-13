@@ -1,0 +1,31 @@
+// Stack(
+//         children: [
+          
+
+//           Positioned(
+//             top: 20,
+//             left: 20,
+//             child:
+//             IconButton(
+//             icon: _user!.avatarUrl != null
+//                 ? CircleAvatar(
+//                     backgroundImage: NetworkImage(_user!.avatarUrl!),
+//                   )
+//                 : Icon(Icons.person),
+//             onPressed: () {
+//               _onItemTapped(1);
+//             },
+//           ), ),
+        
+//                 _widgetOptions.elementAt(_selectedIndex),
+
+//           Container(
+//             width: double.infinity,
+//             height: 50,
+//             decoration: BoxDecoration(
+//               borderRadius: BorderRadius.circular(8),
+//               color: Colors.white,
+//             ),
+//           )
+//         ],
+//       ),
